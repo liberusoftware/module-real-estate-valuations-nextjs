@@ -1,0 +1,15 @@
+{
+  "repository": "module-real-estate-valuations-nextjs",
+  "capabilityKey": "liberusoftware/real-estate-valuations",
+  "presentation": "next-react",
+  "package": "@liberusoftware/module-real-estate-valuations-nextjs",
+  "foundation": "module-boilerplate-nextjs",
+  "foundationCommit": "f36c3c383b38a8ebedb343dffa24cf64bec1817b",
+  "canonicalPlan": "projects/real-estate/nextjs/valuations.md",
+  "presentationPlan": "projects/real-estate/nextjs/valuations.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "real-estate"
+  ]
+}
